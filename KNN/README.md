@@ -2,7 +2,7 @@
 A beginner-level machine learning mini project that uses the K-Nearest Neighbors (KNN) algorithm to classify Iris flowers into three species: Setosa, Versicolor, and Virginica.
 
 ## PROJECT OVERVIEW
-  This project demonstrates the complete workflow of a supervised classification task using the classic Iris dataset, including data loading, preprocessing, model training, hyperparameter tuning, and prediction on new data
+  This is a beginner-level Machine Learning project implementing the **K-Nearest Neighbors (KNN) Classification algorithm** using the Iris dataset. The project demonstrates preprocessing, feature scaling, selecting the optimal K value, cross-validation, visualization, and predicting flower species.
 
 ## DATASET
 Source: sklearn.datasets.load_iris (built-in)
